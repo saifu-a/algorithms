@@ -26,3 +26,17 @@ The prerequisite of using Binary Search algorithm is that the array must be sort
 The Maximum Minimum algorithm is used to find the maximum and minimum element of an array with minimum number of comparisons.
 
 In this algorithm, the array is divided into two subarrays and the maximum and minimum of each subarray is found. Then, the maximum is selected out of maximum of the two subarrays. 
+
+### Merge Sort
+
+The Merge Sort algorithm is used sort an array. In this implementation the array is sorted in ascending order.
+
+#### Time Complexity: 
+
+- Best Case Complexity - O(n log n)
+- Average Case Complexity - O(n log n)
+- Worst Case Complexity - O(n log n)
+
+#### Space Complexity
+
+- For Iterative and Recursive Implementation - O(n)
